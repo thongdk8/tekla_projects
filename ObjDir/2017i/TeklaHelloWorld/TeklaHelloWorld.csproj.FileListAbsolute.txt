@@ -1,0 +1,16 @@
+C:\Users\thong\Documents\Visual Studio 2015\Projects\TeklaHelloWorld\TeklaHelloWorld\bin\Release\TeklaHelloWorld.exe.config
+C:\Users\thong\Documents\Visual Studio 2015\Projects\TeklaHelloWorld\TeklaHelloWorld\bin\Release\TeklaHelloWorld.exe
+C:\Users\thong\Documents\Visual Studio 2015\Projects\TeklaHelloWorld\TeklaHelloWorld\bin\Release\TeklaHelloWorld.pdb
+C:\Users\thong\Documents\Visual Studio 2015\Projects\TeklaHelloWorld\TeklaHelloWorld\bin\Release\System.Net.Http.dll
+C:\Users\thong\Documents\Visual Studio 2015\Projects\TeklaHelloWorld\TeklaHelloWorld\bin\Release\System.Net.Http.xml
+C:\Users\thong\Documents\Visual Studio 2015\Projects\TeklaHelloWorld\ObjDir\2017i\TeklaHelloWorld\TeklaHelloWorld.Form1.resources
+C:\Users\thong\Documents\Visual Studio 2015\Projects\TeklaHelloWorld\ObjDir\2017i\TeklaHelloWorld\TeklaHelloWorld.Properties.Resources.resources
+C:\Users\thong\Documents\Visual Studio 2015\Projects\TeklaHelloWorld\ObjDir\2017i\TeklaHelloWorld\TeklaHelloWorld.csproj.GenerateResource.Cache
+C:\Users\thong\Documents\Visual Studio 2015\Projects\TeklaHelloWorld\TeklaHelloWorld\bin\Debug\TeklaHelloWorld.exe.config
+C:\Users\thong\Documents\Visual Studio 2015\Projects\TeklaHelloWorld\TeklaHelloWorld\bin\Debug\TeklaHelloWorld.exe
+C:\Users\thong\Documents\Visual Studio 2015\Projects\TeklaHelloWorld\TeklaHelloWorld\bin\Debug\TeklaHelloWorld.pdb
+C:\Users\thong\Documents\Visual Studio 2015\Projects\TeklaHelloWorld\TeklaHelloWorld\bin\Debug\CsvHelper.dll
+C:\Users\thong\Documents\Visual Studio 2015\Projects\TeklaHelloWorld\TeklaHelloWorld\bin\Debug\CsvHelper.xml
+C:\Users\thong\Documents\Visual Studio 2015\Projects\TeklaHelloWorld\ObjDir\2017i\TeklaHelloWorld\TeklaHelloWorld.exe
+C:\Users\thong\Documents\Visual Studio 2015\Projects\TeklaHelloWorld\ObjDir\2017i\TeklaHelloWorld\TeklaHelloWorld.pdb
+C:\Users\thong\Documents\Visual Studio 2015\Projects\TeklaHelloWorld\ObjDir\2017i\TeklaHelloWorld\TeklaHelloWorld.csprojResolveAssemblyReference.cache
